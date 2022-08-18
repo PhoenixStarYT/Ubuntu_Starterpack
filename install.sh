@@ -34,7 +34,7 @@ sudo apt install discord -y
 sudo apt install kitty -y
 
 mkdir ~/.config
-cp ~/ubuntu_starterpack/dotconfig/* ~/.config
+cp ~/ubuntu_starterpack/dotconfig/* ~/.config -r
 
 # Install java
 
