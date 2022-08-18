@@ -46,3 +46,7 @@ wget https://launcher.mojang.com/download/Minecraft.deb
 
 sudo apt install ./Minecraft.deb -y
 
+# Install variety
+
+sudo apt install variety
+
